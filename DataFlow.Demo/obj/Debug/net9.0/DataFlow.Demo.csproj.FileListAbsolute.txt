@@ -16,3 +16,4 @@ C:\Users\user201-18\source\repos\DataFlow\DataFlow.Demo\obj\Debug\net9.0\refint\
 C:\Users\user201-18\source\repos\DataFlow\DataFlow.Demo\obj\Debug\net9.0\DataFlow.Demo.pdb
 C:\Users\user201-18\source\repos\DataFlow\DataFlow.Demo\obj\Debug\net9.0\DataFlow.Demo.genruntimeconfig.cache
 C:\Users\user201-18\source\repos\DataFlow\DataFlow.Demo\obj\Debug\net9.0\ref\DataFlow.Demo.dll
+C:\Users\user201-18\source\repos\DataFlow\DataFlow.Demo\obj\Debug\net9.0\DataFlow.Demo.sourcelink.json

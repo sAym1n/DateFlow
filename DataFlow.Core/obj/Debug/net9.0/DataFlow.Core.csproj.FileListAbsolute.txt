@@ -9,3 +9,4 @@ C:\Users\user201-18\source\repos\DataFlow\DataFlow.Core\obj\Debug\net9.0\DataFlo
 C:\Users\user201-18\source\repos\DataFlow\DataFlow.Core\obj\Debug\net9.0\refint\DataFlow.Core.dll
 C:\Users\user201-18\source\repos\DataFlow\DataFlow.Core\obj\Debug\net9.0\DataFlow.Core.pdb
 C:\Users\user201-18\source\repos\DataFlow\DataFlow.Core\obj\Debug\net9.0\ref\DataFlow.Core.dll
+C:\Users\user201-18\source\repos\DataFlow\DataFlow.Core\obj\Debug\net9.0\DataFlow.Core.sourcelink.json
